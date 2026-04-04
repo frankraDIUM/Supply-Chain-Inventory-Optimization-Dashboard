@@ -2,7 +2,8 @@
 
 A comprehensive Power BI dashboard designed to improve stock efficiency, reduce stockouts and overstock, and provide real-time visibility into inventory health, warehouse performance, supplier reliability, and demand forecasting.
 
-![Dashboard Preview](<div>
+![Dashboard Preview]
+(<div>
   <img src="https://github.com/frankraDIUM/Supply-Chain-Inventory-Optimization-Dashboard/blob/main/Overview.png"/>
 </div>)  
 
@@ -67,18 +68,22 @@ Improve inventory efficiency by reducing stockouts and overstock while optimizin
 
 ---
 - Page 1: Inventory Health Overview
-  <div>
+
+<div>
   <img src="https://github.com/frankraDIUM/Supply-Chain-Inventory-Optimization-Dashboard/blob/main/Overview.png"/>
 </div>
 - Page 2: Warehouse Performance
+
 <div>
   <img src="https://github.com/frankraDIUM/Supply-Chain-Inventory-Optimization-Dashboard/blob/main/Warehouse.png"/>
 </div>
 - Page 3: Supplier Analysis
+
 <div>
   <img src="https://github.com/frankraDIUM/Supply-Chain-Inventory-Optimization-Dashboard/blob/main/Supplier.png"/>
 </div>
 - Page 4: Demand Forecast
+
 <div>
   <img src="https://github.com/frankraDIUM/Supply-Chain-Inventory-Optimization-Dashboard/blob/main/Forecast.png"/>
 </div>
