@@ -42,7 +42,7 @@ Improve inventory efficiency by reducing stockouts and overstock while optimizin
 - Forecast vs Actual Comparison
 - Forecast Accuracy (MAPE)
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Power BI Desktop**
 - **DAX** (Data Analysis Expressions)
@@ -68,22 +68,22 @@ Improve inventory efficiency by reducing stockouts and overstock while optimizin
 
 ---
 
-- Page 1: Inventory Health Overview
+Page 1: Inventory Health Overview
 
 <div>
   <img src="https://github.com/frankraDIUM/Supply-Chain-Inventory-Optimization-Dashboard/blob/main/Overview.png"/>
 </div>
-- Page 2: Warehouse Performance
+Page 2: Warehouse Performance
 
 <div>
   <img src="https://github.com/frankraDIUM/Supply-Chain-Inventory-Optimization-Dashboard/blob/main/Warehouse.png"/>
 </div>
-- Page 3: Supplier Analysis
+Page 3: Supplier Analysis
 
 <div>
   <img src="https://github.com/frankraDIUM/Supply-Chain-Inventory-Optimization-Dashboard/blob/main/Supplier.png"/>
 </div>
-- Page 4: Demand Forecast
+Page 4: Demand Forecast
 
 <div>
   <img src="https://github.com/frankraDIUM/Supply-Chain-Inventory-Optimization-Dashboard/blob/main/Forecast.png"/>
